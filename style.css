@@ -6,7 +6,7 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-section {
+main {
     background-color: hsl(0, 0%, 100%);
     width: 90%;
     max-width: 310px;
@@ -17,7 +17,7 @@ section {
     box-shadow: 0 3px 13px -6px hsl(216, 15%, 48%);
 }
 
-section img {
+main img {
     width: 100%;
     max-width: 100%;
     border-radius: 0.938rem;
